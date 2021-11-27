@@ -194,5 +194,6 @@ input{
 
 .default-option{
     display: flex;
+    cursor: pointer;
     gap: 5px;
 }
