@@ -80,6 +80,7 @@ input{
 
 .logo-wrapper {
     width:139px;
+    cursor: pointer;
 }
 
 .logo-wrapper img {
@@ -134,7 +135,7 @@ input{
     display: flex;
     align-items: baseline;
     width: 2.57vw;
-    
+    cursor: pointer;
 }
 
 /* CART'S QUANTITY OF ITEMS */
